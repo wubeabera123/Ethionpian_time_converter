@@ -124,7 +124,7 @@ class _ConverterScreenState extends State<ConverterScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Ethiopian Converter'),
+        title: const Text('Ethiopian Time Converter'),
         centerTitle: true,
         actions: [
           IconButton(
